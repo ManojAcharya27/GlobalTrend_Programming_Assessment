@@ -1,0 +1,1 @@
+Welcome to my repository for the Global Trend Programming Profile assessment. This repository contains my solutions to the 10 programming questions provided in the assessment. Each solution is implemented in Java and adheres to the provided guidelines for correctness, efficiency, and code quality.
